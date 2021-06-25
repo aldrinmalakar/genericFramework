@@ -1,3 +1,8 @@
+Project:
+Framework For ASMR IV&V Team
+@testArchitect: Aldrin Malakar
+aldrin.malakar@asmr.com
+
 Project is using the following tools & plugins:
 
 POM.XML Dependencies to download are following:
